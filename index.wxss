@@ -1,0 +1,10 @@
+page{
+  background-color:burlywood;
+}
+
+.card{
+  width:150rpx;
+  right:75rpx;
+  left:75rpx;
+}
+
